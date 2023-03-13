@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 echo "Contents of /etc/passwd:"
 cat /etc/passwd

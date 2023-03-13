@@ -1,1 +1,1 @@
- this project will teach me the redirections in shell 
+0x02. Shell, I/O Redirections and filters
