@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-
+ this project will teach me the redirections in shell 

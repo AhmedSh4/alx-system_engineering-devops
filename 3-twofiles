@@ -1,0 +1,9 @@
+#!/bin/sh
+
+echo "Contents of /etc/passwd:"
+cat /etc/passwd
+
+echo
+
+echo "Contents of /etc/hosts:"
+cat /etc/hosts
