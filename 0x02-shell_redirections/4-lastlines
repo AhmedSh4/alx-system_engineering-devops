@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "last 10 lines"
 tail -n 10 /etc/passwd
