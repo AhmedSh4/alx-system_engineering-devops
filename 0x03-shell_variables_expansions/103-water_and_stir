@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(( $(echo "ibase=$WATER;$STIR" | bc) + 0 )) | tr '0123456789ABC' '0123456789AB' > ${BESTCHOL:-output}
